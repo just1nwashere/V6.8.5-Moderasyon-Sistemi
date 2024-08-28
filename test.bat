@@ -1,5 +1,5 @@
 @echo off
-title Discord Ozel RPC V2
+title Discord Moderasyon Sistemi V6.8.5
 cls
 nodemon just.js
 pause
